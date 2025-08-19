@@ -52,15 +52,6 @@ This project leverages **machine learning classification models** to predict whe
 
 ---
 
-## 📷 Sample Web App Screenshots  
-
-<p align="center">
-  <img src="images/prediction_status1.png" width="350">
-  <img src="images/prediction_status2.png" width="350">
-</p>
-
----
-
 ## 🔮 Future Scope  
 - Add deep learning models (CNN, ANN) for improved accuracy  
 - Integrate medical imaging (X-rays, CT scans)  
